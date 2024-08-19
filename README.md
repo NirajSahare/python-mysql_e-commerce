@@ -14,7 +14,7 @@ I employed a systematic approach to tackle this project:
 #### Data Exploration: 
 I started by exploring the dataset to understand its structure, identify potential issues, and clean the data.
 #### SQL Query Development: 
-I crafted SQL queries to extract relevant information from the database, covering various aspects of the business.
+I crafted SQL queries inside python to extract relevant information from the database, covering various aspects of the business.
 #### Data Analysis and Visualization:
 I utilized Python libraries (e.g., Pandas, NumPy, Matplotlib, Seaborn) to analyze the data and create informative visualizations.
 #### Insight Generation: 
