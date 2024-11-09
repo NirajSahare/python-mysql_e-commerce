@@ -29,8 +29,8 @@ Provide recommendations for improving customer satisfaction and increasing reven
 
 #### Tools and Technologies:
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-SQL
+Python (Pandas, NumPy, Matplotlib, Seaborn),
+SQL,
 Git
 #### Future Work:
 
