@@ -23,7 +23,7 @@ Based on the analysis, I derived actionable insights to address the business pro
 Through this analysis, I was able to:
 
 Identify key customer segments and their preferences.
-Analyze sales trends and identify growth opportunities..
+Analyze sales trends and identify growth opportunities.
 Calculate customer retention rates and identify churn risks.
 Provide recommendations for improving customer satisfaction and increasing revenue.
 
