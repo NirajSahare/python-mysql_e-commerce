@@ -22,10 +22,10 @@ Based on the analysis, I derived actionable insights to address the business pro
 #### Results:
 Through this analysis, I was able to:
 
-Identify key customer segments and their preferences.
-Analyze sales trends and identify growth opportunities.
-Calculate customer retention rates and identify churn risks.
-Provide recommendations for improving customer satisfaction and increasing revenue.
+1.Identify key customer segments and their preferences.
+2.Analyze sales trends and identify growth opportunities.
+3.Calculate customer retention rates and identify churn risks.
+4.Provide recommendations for improving customer satisfaction and increasing revenue.
 
 #### Tools and Technologies:
 
